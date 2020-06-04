@@ -9,7 +9,6 @@ An opinionated starter template for Gatsby.js that I rely on for most of my proj
 - ESLint optimization that follows AirBnb's React style guide
 - Pre-commit linting
 - Google Analytics
-- React Icons package for a complete set of SVG icons
 
 ## Quick start
 
